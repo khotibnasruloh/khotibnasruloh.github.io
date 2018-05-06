@@ -24,3 +24,24 @@
 }
 
 /* end-navbar */
+
+/*Jumbotron*/
+
+.jumbotron{
+    background-color: #72b4fd;
+    color: #fff;
+}
+
+.card{
+    width: 18rem;
+    margin: auto;
+    height: 17rem;
+    background-color: #72b4fd;
+    color: rgb(6, 24, 126);
+}
+
+.card-body{
+
+    text-align: center;
+}
+
